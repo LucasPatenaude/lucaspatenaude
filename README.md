@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello, there 👋
 
-<!--
-**LucasPatenaude/lucaspatenaude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you're looking for my current projects they can be found on my GitLab 🦊:
 
-Here are some ideas to get you started:
+[Click Here to go to GitLab](https://gitlab.com/users/lucaspatenaude/projects)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Current Skills 🧠
+ 1. C++ 🧪
+ 2. Web 🕸️
+ 3. Java ☕️
+ 4. BASH 👨🏻‍💻
+
+# Current Projects 🏗️
+
+1. [Personal Media Server Dashboard](https://gitlab.com/lucaspatenaude/Media-Server-Dashboard) 🍿
+2. [ScoreSpot](https://gitlab.com/lucaspatenaude/ScoreSpot) ⚽️
