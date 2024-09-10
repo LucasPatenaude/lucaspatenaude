@@ -1,4 +1,4 @@
-## Hello, there 👋
+## Hello 👋
 
 If you're looking for my current projects they can be found on my GitLab 🦊:
 
