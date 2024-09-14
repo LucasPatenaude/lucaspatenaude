@@ -2,7 +2,7 @@
 
 If you're looking for my current projects they can be found on my GitLab 🦊:
 
-[Click Here to go to GitLab](https://gitlab.com/users/lucaspatenaude/projects)
+[Click Here to go to GitLab](https://gitlab.com/users/lucaspatenaude/projects) 🔗
 
 # Current Skills 🧠
  1. C++ 🧪
